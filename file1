@@ -10,3 +10,6 @@ git hub inside have branches like a master dev qa
 {
 working area, staging area, local repo. nd push origin 
 }
+{
+git reverting and stash
+}
