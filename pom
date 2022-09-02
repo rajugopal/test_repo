@@ -97,15 +97,15 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>suneel release</name>
-	      <url>http://18.220.157.84:8081/repository/maveb111/</url>
+	      <name>raju release</name>
+	      <url>http://107.22.31.22:8081/repository/maven_web-app-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>suneel Snapshot Nexus Repository </name>
-	      <url>http://18.220.157.84:8081/repository/mavensnapshot111//</url>
-	    </snapshotRepository>
+	      <name>raju Snapshot Nexus Repository </name>
+	      <url>http://107.22.31.22:8081/repository/maven_web-app-snaphot/<url>
+	 
 	    
 	</distributionManagement>
 	
